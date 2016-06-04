@@ -1,0 +1,6 @@
+{
+  "name": "Roffit",
+  "tagline": "converts nroff man pages to HTML",
+  "body": "# roffit\r\n\r\nA command line tool that reads nroff and outputs HTML\r\n\r\n## Home\r\n\r\n Project home: https://daniel.haxx.se/projects/roffit\r\n\r\n Source code: https://github.com/bagder/roffit\r\n\r\n## Code\r\n\r\n git clone git://github.com/bagder/roffit.git\r\n\r\n## Contributors\r\n\r\n Daniel Stenberg, Jay Satiro, Jari Aalto\r\n\r\n## License\r\n\r\n MIT\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
